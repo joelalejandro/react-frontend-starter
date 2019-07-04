@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Modifications
+
+- Adds support for SCSS stylesheets
+- Implements linting rules for TypeScript (based on Airbnb + Prettier)
+
 ## Available Scripts
 
 In the project directory, you can run:
